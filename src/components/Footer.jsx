@@ -29,7 +29,7 @@ const Footer = () => {
       <div className="text-white grid grid-cols-12">
         <div className="col-span-4">
           <h1 className="text-secondary text-center pt-0 p-6">
-            <span className="block text-4xl font-bold">بصمة</span>
+            <span className="block text-4xl font-bold">شركة طيبة الخير للاستثمار العقاري</span>
             <span className="text-secondary/60">للاستثمار العقاري</span>
           </h1>
           <p>
